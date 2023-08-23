@@ -1,5 +1,4 @@
 ---
-import Button from '@components/ui/Button.astro';
 import Social from '@components/ui/Social.astro';
 ---
 
@@ -8,7 +7,10 @@ import Social from '@components/ui/Social.astro';
 	id="contact"
 	class="flex flex-col flex-wrap items-center justify-center gap-8 text-black dark:text-white lg:mb-0 lg:h-screen"
 >
-	<Button size={'lg'} style={'primary'} name="Contact">Say hello!</Button>
+
+	<h2 class="font-monospace text-2xl text-orange lg:text-4xl">Say hello!</h2>
+	<span class="mb-2 h-1 w-10 bg-orange"></span>
+
 	<hr class="w-1/2" />
 	<div class="flex flex-col gap-8 lg:flex lg:flex-row lg:gap-20">
 		<Social />
