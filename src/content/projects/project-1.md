@@ -1,7 +1,7 @@
 ---
 inProgress: false
-title: Project title
+title: Artificial Agent for Mind Monitoring
 img_alt: project image alt text
 link: https://github.com/veranikabarel?tab=repositories
-tags: ['React', 'CSS', 'Typescript']
+tags: ['React', 'Python', 'Tauri']
 ---
