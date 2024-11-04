@@ -96,7 +96,7 @@ export const info = {
     {
       title: "Briefer",
       isFeatured: true,
-      thumbnail: "/assets/images/briefer.png",
+      thumbnail: "/assets/images/Briefer.png",
       githubUrl: "https://github.com/HikariLight/Briefer",
       liveUrl: "https://briefer.dhia.dev",
     },
