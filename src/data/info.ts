@@ -24,7 +24,7 @@ export const info = {
     },
 
     {
-      name: "Software Engineering Intenr - GREYC Laboratory",
+      name: "Software Engineering Intern - GREYC Laboratory",
       location: "Caen, Normandy, France",
       startDate: "Feb 2024",
       endDate: "Aug 2024",
